@@ -485,8 +485,6 @@ if SET_BOT_COMMANDS:
         (f'{BotCommands.PingCommand}','Ping the bot'),
         (f'{BotCommands.RestartCommand}','Restart the bot'),
         (f'{BotCommands.LogCommand}','Get the bot Log'),
-        (f'{BotCommands.UsageCommand}','Heroku Dyno usage'),
-        (f'{BotCommands.SleepCommand}','Sleep Bot'),
         (f'{BotCommands.HelpCommand}','Get detailed help')
     ]
 
