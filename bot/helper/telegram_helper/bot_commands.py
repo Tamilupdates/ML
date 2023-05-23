@@ -71,7 +71,6 @@ class _BotCommands:
         self.WayBackCommand = getCommand('WAYBACK_COMMAND', f'wayback{CMD_INDEX}')
         self.AddleechlogCommand = getCommand('ADDLEECHLOG_CMD', f'addleechlog{CMD_INDEX}')
         self.RmleechlogCommand = getCommand('RMLEECHLOG_CMD', f'rmleechlog{CMD_INDEX}')
-        self.UsageCommand = getCommand('USAGE_COMMAND', f'usage{CMD_INDEX}')
         self.SleepCommand = getCommand('SLEEP_COMMAND', f'sleep{CMD_INDEX}')
         self.EvalCommand = f'eval{CMD_INDEX}'
         self.ExecCommand = f'exec{CMD_INDEX}'
