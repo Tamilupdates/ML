@@ -755,16 +755,16 @@ try:
     if len(CHANNEL_USERNAME) == 0:
         raise KeyError
 except KeyError:
-    log_info("CHANNEL_USERNAME not provided! Using default @WeebZone_updates")
-    CHANNEL_USERNAME = "WeebZone_updates"
+    log_info("CHANNEL_USERNAME not provided! Using default @KPSTorrent")
+    CHANNEL_USERNAME = "KPSTorrent"
 try:
     FSUB_CHANNEL_ID = getConfig("FSUB_CHANNEL_ID")
     if len(FSUB_CHANNEL_ID) == 0:
         raise KeyError
     FSUB_CHANNEL_ID = int(FSUB_CHANNEL_ID)
 except KeyError:
-    log_info("CHANNEL_ID not provided! Using default id of @WeebZone_updates")
-    FSUB_CHANNEL_ID = -1001512307861
+    log_info("CHANNEL_ID not provided! Using default id of @KPSTorrent")
+    FSUB_CHANNEL_ID = -1001965189307
 try:
     TOKEN_PICKLE_URL = getConfig('TOKEN_PICKLE_URL')
     if len(TOKEN_PICKLE_URL) == 0:
