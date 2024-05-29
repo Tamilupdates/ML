@@ -1,10 +1,10 @@
 {
-    "name": "ML-X Bot",
-    "description": "ML-X Bot with Heroku Deploy",
+    "name": "ML Bot",
+    "description": "ML Bot with Heroku Deploy",
     "keywords": [
       "telegram"
     ],
-    "repository": "https://github.com/Tamilupdates/Deploy-ML-X",
+    "repository": "https://github.com/Tamilupdates/ML",
     "stack": "container",
     "env": {
         "CONFIG_FILE_URL": {
