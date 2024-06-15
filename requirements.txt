@@ -30,6 +30,7 @@ psutil
 pybase64
 pycountry
 pymongo
+git+https://github.com/KurimuzonAkuma/pyrogram.git
 pyrofork==2.2.11
 python-dotenv
 python-magic
