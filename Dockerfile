@@ -1,4 +1,4 @@
-FROM nanthakps/mlx:test
+FROM nanthakps/mlx
 
 # WORKDIR /usr/src/app
 # RUN chmod 777 /usr/src/app
