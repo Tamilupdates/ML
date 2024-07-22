@@ -1,4 +1,4 @@
-FROM nanthakps/mlx
+FROM nanthakps/mlx:heroku
 
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
