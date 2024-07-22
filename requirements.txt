@@ -30,8 +30,8 @@ psutil
 pybase64
 pycountry
 pymongo
-pyrofork==2.2.11
-#git+https://github.com/Tamilupdates/pyrogram.git
+#pyrofork==2.2.11
+https://github.com/Tamilupdates/pyrogram/archive/refs/tags/v2.1.23.zip
 python-dotenv
 python-magic
 qbittorrent-api
