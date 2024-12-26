@@ -31,7 +31,6 @@ pybase64
 pycountry
 pymongo
 pyrofork==2.2.11
-#https://github.com/Tamilupdates/pyrogram/archive/refs/tags/v2.1.23.zip
 python-dotenv
 python-magic
 qbittorrent-api
@@ -42,4 +41,4 @@ tenacity
 tgcrypto
 uvloop
 xattr
-yt-dlp==2023.10.07
+yt-dlp
