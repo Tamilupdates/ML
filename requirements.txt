@@ -42,4 +42,4 @@ tgcrypto
 uvloop
 uv
 xattr
-yt-dlp
+yt-dlp==2023.10.07
